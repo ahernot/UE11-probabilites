@@ -1,5 +1,5 @@
 # UE11 – Probabilités
-Group project due 2021.xx.xx
+Group project due 2021.02.21
 
 <br><br>
 
