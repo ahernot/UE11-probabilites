@@ -10,4 +10,4 @@ Group project due 2021.02.21
 <br><br>
 
 ## To do:
-* Begin project.
+* All tasks have been completed.
